@@ -1,0 +1,25 @@
+body {
+  background-color: #FFFAFA;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1{
+  font-size: 100px;
+}
+
+body {
+  margin-top: 60px;
+}
+
+ol {
+  font-size: 20px;
+}
+
+p {
+  text-align: justify;
+}
